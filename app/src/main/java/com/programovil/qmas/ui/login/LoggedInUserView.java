@@ -1,4 +1,4 @@
-package  com.programovil.qmas.ui.login;
+package com.programovil.qmas.ui.login;
 
 /**
  * Class exposing authenticated user details to the UI.
