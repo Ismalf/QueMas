@@ -1,4 +1,4 @@
-package com.programovil.qmas.ui.login;
+package com.programovil.quemas.ui.login;
 
 import android.app.Activity;
 
@@ -22,9 +22,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.programovil.qmas.R;
-import com.programovil.qmas.ui.login.LoginViewModel;
-import com.programovil.qmas.ui.login.LoginViewModelFactory;
+import com.programovil.quemas.R;
 
 public class LoginActivity extends AppCompatActivity {
 

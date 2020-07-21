@@ -1,6 +1,6 @@
-package com.programovil.qmas.data;
+package com.programovil.quemas.data;
 
-import com.programovil.qmas.data.model.LoggedInUser;
+import com.programovil.quemas.data.model.LoggedInUser;
 
 import java.io.IOException;
 

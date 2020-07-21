@@ -1,4 +1,4 @@
-package com.programovil.qmas;
+package com.programovil.quemas;
 
 import org.junit.Test;
 

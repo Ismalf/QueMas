@@ -1,4 +1,4 @@
-package com.programovil.qmas.ui.login;
+package com.programovil.quemas.ui.login;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -6,10 +6,10 @@ import androidx.lifecycle.ViewModel;
 
 import android.util.Patterns;
 
-import com.programovil.qmas.data.LoginRepository;
-import com.programovil.qmas.data.Result;
-import com.programovil.qmas.data.model.LoggedInUser;
-import com.programovil.qmas.R;
+import com.programovil.quemas.data.LoginRepository;
+import com.programovil.quemas.data.Result;
+import com.programovil.quemas.data.model.LoggedInUser;
+import com.programovil.quemas.R;
 
 public class LoginViewModel extends ViewModel {
 

@@ -1,4 +1,4 @@
-package com.programovil.qmas;
+package com.programovil.quemas;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.programovil.qmas", appContext.getPackageName());
+        assertEquals("com.programovil.quemas", appContext.getPackageName());
     }
 }

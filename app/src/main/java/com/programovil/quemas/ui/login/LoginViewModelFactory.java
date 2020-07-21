@@ -1,11 +1,11 @@
-package com.programovil.qmas.ui.login;
+package com.programovil.quemas.ui.login;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.programovil.qmas.data.LoginDataSource;
-import com.programovil.qmas.data.LoginRepository;
+import com.programovil.quemas.data.LoginDataSource;
+import com.programovil.quemas.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.
