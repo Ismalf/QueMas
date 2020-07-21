@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539470261010",
+    "firebase_url": "https://quemas-e2c43.firebaseio.com",
+    "project_id": "quemas-e2c43",
+    "storage_bucket": "quemas-e2c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539470261010:android:72fa3ede0d5030d226e1cb",
+        "android_client_info": {
+          "package_name": "com.programovil.quemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539470261010-jnajqjcmii0fsajcp1itlbqu00oigdiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programovil.quemas",
+            "certificate_hash": "a3e46bd97e965d092d7e5fc994316083ceb61812"
+          }
+        },
+        {
+          "client_id": "539470261010-5bh76urfametcgoh2hsfrfkr7berc0t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehhcJs3SDjXNGkM9JlbWJWlU7a0iZi1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539470261010-5bh76urfametcgoh2hsfrfkr7berc0t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
